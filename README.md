@@ -35,8 +35,6 @@ The primary use of this application is through the admin panel. Here are the ste
 
    - **Languages**: Add the languages you will be working with (e.g., English and Romanian).
 
-   - **Translators**: Configure translators (e.g., OpenAI).
-
 3. Create a new `DatasetLanguage` in the admin panel. For example, you can create a dataset named "alpaca_data" with the source language set to English and provide the corresponding JSON file.
 
 4. After creating the `DatasetLanguage` object, use the custom admin action "Import JSON objects from file" to import the JSON data into the database. Depending on the file's size, this process may take some time. For validating a dataset you need at least two uploaded. The original one and the translated one. In the media folder we provide 2 short examples for the aplaca_dataset.
