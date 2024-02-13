@@ -1,0 +1,17 @@
+[
+    {
+        "instruction": "Oferiți trei sfaturi pentru a rămâne sănătos.",
+        "input": "",
+        "output": "1.Mănâncă o dietă echilibrată și asigurați-vă că includeți o mulțime de fructe și legume. \n2. Exercitați în mod regulat pentru a vă menține corpul activ și puternic. \n3. Obțineți suficient somn și mențineți un program de somn consecvent."
+    },
+    {
+        "instruction": "Care sunt cele trei culori primare?",
+        "input": "",
+        "output": "Cele trei culori primare sunt roșu, albastru și galben."
+    },
+    {
+        "instruction": "Descrieți structura unui atom.",
+        "input": "",
+        "output": "Un atom este alcătuit dintr-un nucleu, care conține protoni și neutroni, înconjurați de electroni care călătoresc pe orbite în jurul nucleului. Protonii și neutronii au sarcină pozitivă, în timp ce electronii au sarcină negativă, rezultând un atom neutru. Numărul fiecărei particule determină numărul atomic și tipul de atom."
+    }
+]
